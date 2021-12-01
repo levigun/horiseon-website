@@ -6,10 +6,6 @@ Horiseon Marketing Agency is a growing marketing agency with a lot of great attr
 this is to improve our website by following accessibility standards and able to be used optimally throughout different search engines.
 Hence, this project is created to achieve this, hoping to help more our clients as well as the company.
 
-## Website Look
-
-![Alt Image text]( "Horiseon Website Look")
-
 ## Getting Started
 
 Follow these instructions to get the project: 
@@ -21,6 +17,10 @@ commands to save and push your code to your GitHub repository.
 
 3. This link will help you see the project in your live browser!
 https://levigun.github.io/horiseon-website/
+
+## Website Look
+
+![Horiseon Website](./assets/images/screenshot.png)
 
 ## Credits
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
