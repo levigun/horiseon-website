@@ -82,7 +82,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+ /* made just one class for all the paragraph title as they are styled the same */
 .paragraph-title {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,25 +92,30 @@ p {
     color: #ffffff;
 }
 
+/* a class for the image in each paragraph is made as they are style the same */
 .paragraph-title img {
     max-height: 200px;
 }
 
+/* the paragraph heading is in one class because it is styled the same way  */
 .paragraph-title h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* a new class called benefit is used for the paragraphs on the right side of the page */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* the headings are the same style */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* the image is the same style */
 .benefit img {
     display: block;
     margin: 10px auto;
